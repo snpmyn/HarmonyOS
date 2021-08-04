@@ -4,6 +4,11 @@ import com.zsp.myapplication.ResourceTable;
 import ohos.aafwk.ability.AbilitySlice;
 import ohos.aafwk.content.Intent;
 
+/**
+ * @desc: 主页切片
+ * @author: zsp
+ * @date: 2021/8/4 4:49 PM
+ */
 public class MainAbilitySlice extends AbilitySlice {
     @Override
     public void onStart(Intent intent) {
