@@ -11,6 +11,30 @@
     {
       "name": "mainability_HelloWorld",
       "value": "Hello World"
+    },
+    {
+      "name": "mainability_jumpWithinAbilitySlice",
+      "value": "Jump Within AbilitySlice"
+    },
+    {
+      "name": "mainability_jumpBetweenPage",
+      "value": "Jump Between Page"
+    },
+    {
+      "name": "entry_SecondAbility",
+      "value": "entry_SecondAbility"
+    },
+    {
+      "name": "secondability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "secondability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "secondability_GoBack",
+      "value": "Go Back"
     }
   ]
 }
